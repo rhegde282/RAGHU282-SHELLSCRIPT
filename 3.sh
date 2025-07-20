@@ -6,3 +6,4 @@ echo $a
 echo "Nice world"
 b=10
 echo $b
+echo "what are u doing nice and easy"
